@@ -28,7 +28,4 @@ To use this project:
 - The quotable.io API for providing random quotes.
 - The project was built by [Your Name].
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
