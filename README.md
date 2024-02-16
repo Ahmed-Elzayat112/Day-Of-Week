@@ -26,6 +26,6 @@ To use this project:
 ## Credits
 
 - The quotable.io API for providing random quotes.
-- The project was built by [Your Name].
+- The project was built by [Ahmed Elzayat].
 
 
