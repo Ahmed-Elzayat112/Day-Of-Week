@@ -26,6 +26,7 @@ To use this project:
 ## Credits
 
 - The quotable.io API for providing random quotes.
-- The project was built by [Ahmed Elzayat].
+- The project was built by Ahmed Elzayat.
 
+![Day Of The Week Phot](https://github.com/Ahmed-Elzayat112/Day-Of-Week/assets/113038956/dc83e437-113b-4605-b2a6-4355c78d4bc8)
 
